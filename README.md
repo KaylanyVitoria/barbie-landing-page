@@ -8,9 +8,9 @@ Projeto desenvolvido como teste prático para vaga de Aprendiz Front-End no Grup
 - JavaScript
 
 ## 📱 Funcionalidades
-- Layout 100% responsivo
+- Layout responsivo (mobile, tablet e desktop)
 - Navegação com scroll suave
 - Estrutura semântica
 
 ## ▶️ Como executar
-Abra o arquivo index.html no navegador.
+Abra o arquivo `index.html` no navegador.
